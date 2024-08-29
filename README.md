@@ -18,6 +18,24 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+# Swapping of two values
+# Developed by: LEKA SRI G
+# Register number: 212223100025
+
+surya = input()
+vijay = input()
+
+# Swap the values
+temp = surya
+surya = vijay
+vijay = temp
+
+print("Swapped values are:", surya, vijay)
+```
+## OUTPUT:
+![Screenshot 2024-08-29 140557](https://github.com/user-attachments/assets/48719e66-9d64-4172-83ca-d3957cdcf087)
+
 
 
 
